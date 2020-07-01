@@ -1,0 +1,23 @@
+$(document).ready(function() {
+    $.getJSON('senior.json', function(senior) {
+        document.title = 'Farewell ' + senior.name  
+        $('#carlo_txt').html('<h2>'+senior.h2+'</h2>')
+        $('#carlo_txt').append('<p>'+senior.p1-desc+'<br><br>'+senior.p2-desc+'</p>')
+        $('.carlo').attr('src', person.imageOnRight)
+        $('.txt4').html(person.txt4)
+        $('.record1').attr('src', person.recordDivImages[0])
+        $('.record2').attr('src', person.recordDivImages[1])
+        $('.record3').attr('src', person.recordDivImages[2])
+        $('.record4').attr('src', person.recordDivImages[3])
+        $('#section6bg').attr('src', person.section6bg)
+        $('#div_patch1').html(person.shortText)
+        $('#div_patch2').html(person.shortText2)
+        $('.btn-play').attr('href', person.TvVideoLink)
+        $('.ravi_pic').attr('src', person.section7bg)
+        $('.p_img1').attr('src', person.swiperImages[0])
+        $('.p_img2').attr('src', person.swiperImages[1])
+        $('.p_img3').attr('src', person.swiperImages[2])
+        $('.p_img4').attr('src', person.swiperImages[3])
+        $('.p_img5').attr('src', person.swiperImages[4])
+    })
+})
