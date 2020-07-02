@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
 .button_container {
 	position: fixed;
 	top: 5%;
@@ -30,7 +29,7 @@
 }
 
 .button_container span {
-	background: #00ffff;
+	background: white;
 	border: none;
 	height: 5px;
 	width: 100%;
@@ -50,7 +49,7 @@
 }
 
 .overlay {
-	font-family: 'Heebo', sans-serif;
+	font-family: 'badaboom_bbregular';
 	position: fixed;
 	background: #1abc9c;
 	top: 0;
@@ -61,7 +60,7 @@
 	z-index: 100;
 	visibility: hidden;
 	transition: opacity 0.35s, visibility 0.35s, height 0.35s;
-	overflow: hidden;
+	overflow: auto;
 }
 
 .overlay.open {
@@ -93,7 +92,7 @@
 	top: 50%;
 	transform: translateY(-50%);
 	font-size: 50px;
-	font-family: 'Varela Round', serif;
+	font-family: 'badaboom_bbregular';
 	font-weight: 400;
 	text-align: center;
 }
@@ -117,12 +116,13 @@
 }
 
 .overlay ul li a {
-	font-family: 'Heebo', sans-serif;
+	font-family: 'badaboom_bbregular';
 	display: block;
 	position: relative;
 	color: #fff;
 	text-decoration: none;
-	overflow: hidden;
+	overflow: auto;
+	text-shadow: 6px 5px 2px #000000;
 }
 
 .overlay ul li a:hover:after,
