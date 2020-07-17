@@ -7,8 +7,8 @@ $(document).ready(function () {
             $('.carlo').attr('src', senior.imageOnRight)
             $('.ravi_img3').attr('src', senior.profileimg)
             $('#section6bg').attr('src', senior.section6bg)
-            $('#div_patch1').html(senior.shortText)
-            $('#div_patch2').html(senior.shortText2)
+            $('.div_patch1').html(senior.shortText)
+            $('.div_patch2').html(senior.shortText2)
             $('.btn-play').attr('href', senior.TvVideoLink)
             $('.ravi_pic').attr('src', senior.section7bg)
 
