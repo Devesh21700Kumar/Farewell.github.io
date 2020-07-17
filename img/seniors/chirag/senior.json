@@ -1,0 +1,35 @@
+{
+    "name": "Chirag",
+    "profileimg": "./img/seniors/chirag/img/2.png",
+    "h2": "Some ten years ago ... ye wala part",
+    "p1_desc": "It was Ravi Shankar ...",
+    "p2_desc": "Within a few Short months",
+    "imgOnRight": "Path to image",
+    "swiperImages": [
+        "./img/seniors/chirag/img/1.png",
+        "./img/seniors/chirag/img/3.png",
+        "./img/seniors/chirag/img/4.png",
+        "./img/seniors/chirag/img/5.png",
+        "./img/seniors/chirag/img/6.png",
+        "./img/seniors/chirag/img/7.png",
+        "./img/seniors/chirag/img/8.png",
+        "./img/seniors/chirag/img/9.png"
+    ],
+    "txt4": "Like most of us ...",
+    "recordDivImages": [
+        "./img/seniors/chirag/img/1.png",
+        "./img/seniors/chirag/img/3.png",
+        "./img/seniors/chirag/img/4.png",
+        "./img/seniors/chirag/img/5.png",
+        "./img/seniors/chirag/img/6.png",
+        "./img/seniors/chirag/img/7.png",
+        "./img/seniors/chirag/img/8.png",
+        "./img/seniors/chirag/img/9.png"
+    ],
+    "section6bg": "img",
+    "shortText": "Ravi's a jolly good fellow",
+    "shortText2": "And so to say all of us...",
+    "TvVideoLink": "link to youtube here",
+    "section7bg": "img",
+    "seniorPic": "ravi_pic_class_disable"
+}
