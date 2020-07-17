@@ -1,0 +1,23 @@
+.swiper-container {
+    height: 50vh !important;
+}
+
+.swiper-slide, .swiper-wrapper {
+    height: 100% !important;
+}
+
+.swiper-slide {
+    width: auto !important;;
+}
+
+.image-wrapper {
+    height: 100% !important;
+    width: auto;
+}
+
+.swiper-slide img {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
