@@ -27,7 +27,7 @@ $(document).ready(function () {
             swiperContainer.innerHTML = "";
             let swiperImages = senior.swiperImages,
                 swiperWrapper = document.createElement("div");
-            swiperWrapper.classList.add(".swiper-wrapper");
+            swiperWrapper.classList.add("swiper-wrapper");
 
             swiperImages.forEach(swiperImage => {
                 const swiperSlide = document.createElement("div"),
