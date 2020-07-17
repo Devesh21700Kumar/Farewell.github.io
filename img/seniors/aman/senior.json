@@ -1,32 +1,32 @@
 {
-    "name": "Aman",
-    "profileimg": "./img/seniors/aman/img/main.png",
-    "h2": "Some 4 years ago, on a sweltering day of August, a bright young engineer stood overwhelmed by the grandeur of the Clock Tower.",
-    "p1_desc": "If you want to hear stories with a lot of girls in it, aman is the man for you(har story k end me katega)NSS and 2nd year sidee.",
-    "p2_desc": "",
-    "imgOnRight": "Path to image",
-    "swiperImages": [
-        "./img/seniors/aman/img/img1.jpeg",
-        "./img/seniors/aman/img/img2.jpeg",
-        "./img/seniors/aman/img/img3.jpeg",
-        "./img/seniors/aman/img/img4.jpeg",
-        "./img/seniors/aman/img/img5.jpeg",
-        "./img/seniors/aman/img/img6.jpeg",
-        "./img/seniors/aman/img/img7.jpeg",
-        "./img/seniors/aman/img/img8.jpeg",
-        "./img/seniors/aman/img/img9.jpeg"
-    ],
-    "txt4": "Like most of us ...",
-    "recordDivImages": [
-        "./img/seniors/arpit/img/1.jpg",
-        "./img/seniors/arpit/img/3.jpg",
-        "./img/seniors/arpit/img/4.jpg",
-        "./img/seniors/arpit/img/5.jpg"
-    ],
-    "section6bg": "img",
-    "shortText": "Ravi's a jolly good fellow",
-    "shortText2": "And so to say all of us...",
-    "TvVideoLink": "link to youtube here",
-    "section7bg": "img",
-    "seniorPic": "ravi_pic_class_disable"
+	"name": "Aman",
+	"profileimg": "./img/seniors/aman/img/main.png",
+	"h2": "Some 4 years ago, on a sweltering day of August, a bright young engineer stood overwhelmed by the grandeur of the Clock Tower.",
+	"p1_desc": "If you want to hear stories with a lot of girls in it, Aman is the man for you(har story k end me katega).",
+	"p2_desc": "   Bahut kaam karta tha saala. Bas aisa lagta tha ki depression de dega. Second year Mein tumhara hi dusra senior chirag gupta ke Saath love dose chalta tha iska, dono ek dusre ko unity karwate the. ",
+	"imgOnRight": "Path to image",
+	"swiperImages": [
+		"./img/seniors/aman/img/img1.jpeg",
+		"./img/seniors/aman/img/img2.jpeg",
+		"./img/seniors/aman/img/img3.jpeg",
+		"./img/seniors/aman/img/img4.jpeg",
+		"./img/seniors/aman/img/img5.jpeg",
+		"./img/seniors/aman/img/img6.jpeg",
+		"./img/seniors/aman/img/img7.jpeg",
+		"./img/seniors/aman/img/img8.jpeg",
+		"./img/seniors/aman/img/img9.jpeg"
+	],
+	"txt4": "Like most of us ...",
+	"recordDivImages": [
+		"./img/seniors/arpit/img/1.jpg",
+		"./img/seniors/arpit/img/3.jpg",
+		"./img/seniors/arpit/img/4.jpg",
+		"./img/seniors/arpit/img/5.jpg"
+	],
+	"section6bg": "img",
+	"shortText": "Jugadu Number 1",
+	"shortText2": "EEE se pareshaan bechara, aur ishq ka maara. Apni hawas ke kisse khoob sunaye hai isne, 1st class se lekar college tak.Banda hard working hai but.",
+	"TvVideoLink": "link to youtube here",
+	"section7bg": "img",
+	"seniorPic": "ravi_pic_class_disable"
 }

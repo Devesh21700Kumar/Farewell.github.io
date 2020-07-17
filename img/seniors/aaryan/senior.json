@@ -1,32 +1,32 @@
 {
-    "name": "Aaryan",
-    "profileimg": "./img/seniors/aaryan/img/main.png",
-    "h2": "Some ten years ago ... ye wala part",
-    "p1_desc": "It was Ravi Shankar ...",
-    "p2_desc": "Within a few Short months",
-    "imgOnRight": "Path to image",
-    "swiperImages": [
-        "./img/seniors/aaryan/img/img1.jpeg",
-        "./img/seniors/aaryan/img/img2.jpeg",
-        "./img/seniors/aaryan/img/img3.jpeg",
-        "./img/seniors/aaryan/img/img4.jpeg",
-        "./img/seniors/aaryan/img/img5.jpeg",
-        "./img/seniors/aaryan/img/img6.jpeg",
-        "./img/seniors/aaryan/img/img7.jpeg",
-        "./img/seniors/aaryan/img/img8.jpeg",
-        "./img/seniors/aaryan/img/img9.jpeg"
-    ],
-    "txt4": "Like most of us ...",
-    "recordDivImages": [
-        "./img/seniors/arpit/img/1.jpg",
-        "./img/seniors/arpit/img/3.jpg",
-        "./img/seniors/arpit/img/4.jpg",
-        "./img/seniors/arpit/img/5.jpg"
-    ],
-    "section6bg": "img",
-    "shortText": "Ravi's a jolly good fellow",
-    "shortText2": "And so to say all of us...",
-    "TvVideoLink": "link to youtube here",
-    "section7bg": "img",
-    "seniorPic": "ravi_pic_class_disable"
+	"name": "Aaryan",
+	"profileimg": "./img/seniors/aaryan/img/main.png",
+	"h2": "Some 4 years ago, on a sweltering day of August, a bright young engineer stood overwhelmed by the grandeur of the Clock Tower.",
+	"p1_desc": "This guy tries to be adaptable (bro you snap bad). Somewhat adventurous?? Hmm, Ambitious (you, me and Eradi - demolishing a few startups). Woww Amiable ❤️. Really Compassionate. Diligent my ass. Sincere my foot. Generous. Gregarious GREGarious GREGARIOUS. Reliable. Very Resourceful. Damn Intelligent.",
+	"p2_desc": "",
+	"imgOnRight": "Path to image",
+	"swiperImages": [
+		"./img/seniors/aaryan/img/img1.jpeg",
+		"./img/seniors/aaryan/img/img2.jpeg",
+		"./img/seniors/aaryan/img/img3.jpeg",
+		"./img/seniors/aaryan/img/img4.jpeg",
+		"./img/seniors/aaryan/img/img5.jpeg",
+		"./img/seniors/aaryan/img/img6.jpeg",
+		"./img/seniors/aaryan/img/img7.jpeg",
+		"./img/seniors/aaryan/img/img8.jpeg",
+		"./img/seniors/aaryan/img/img9.jpeg"
+	],
+	"txt4": "Like most of us ...",
+	"recordDivImages": [
+		"./img/seniors/arpit/img/1.jpg",
+		"./img/seniors/arpit/img/3.jpg",
+		"./img/seniors/arpit/img/4.jpg",
+		"./img/seniors/arpit/img/5.jpg"
+	],
+	"section6bg": "img",
+	"shortText": "cutest guy on campus",
+	"shortText2": "Juniors ka maseeha. P.S. He's gay.",
+	"TvVideoLink": "link to youtube here",
+	"section7bg": "img",
+	"seniorPic": "ravi_pic_class_disable"
 }
