@@ -3,15 +3,9 @@ $(document).ready(function () {
         name = $(this).text().toLowerCase()
         $.getJSON('../img/seniors/' + name + '/senior.json', function (senior) {
             document.title = 'Farewell ' + senior.name
-            $('.carlo_txt').html('<h2>' + senior.h2 + '</h2>')
-            $('.carlo_txt').append('<p>' + senior.p1_desc + '<br><br>' + senior.p2_desc + '</p>')
+            $('.carlo_txt p').text(senior.p1_desc + ' ' + senior.p2_desc)
             $('.carlo').attr('src', senior.imageOnRight)
-            // $('.txt4').html(senior.txt4)
             $('.ravi_img3').attr('src', senior.profileimg)
-            $('.record1').attr('src', senior.recordDivImages[0])
-            $('.record2').attr('src', senior.recordDivImages[1])
-            $('.record3').attr('src', senior.recordDivImages[2])
-            $('.record4').attr('src', senior.recordDivImages[3])
             $('#section6bg').attr('src', senior.section6bg)
             $('#div_patch1').html(senior.shortText)
             $('#div_patch2').html(senior.shortText2)
