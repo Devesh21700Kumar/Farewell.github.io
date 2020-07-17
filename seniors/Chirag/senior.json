@@ -1,0 +1,35 @@
+{
+    "name": "Chirag",
+    "profileimg": "./seniors/Chirag/img/2.png",
+    "h2": "Some ten years ago ... ye wala part",
+    "p1_desc": "It was Ravi Shankar ...",
+    "p2_desc": "Within a few Short months",
+    "imgOnRight": "Path to image",
+    "swiperImages": [
+        "./seniors/Chirag/img/1.png",
+        "./seniors/Chirag/img/3.png",
+        "./seniors/Chirag/img/4.png",
+        "./seniors/Chirag/img/5.png",
+        "./seniors/Chirag/img/6.png",
+        "./seniors/Chirag/img/7.png",
+        "./seniors/Chirag/img/8.png",
+        "./seniors/Chirag/img/9.png"
+    ],
+    "txt4": "Like most of us ...",
+    "recordDivImages": [
+        "./seniors/Chirag/img/1.png",
+        "./seniors/Chirag/img/3.png",
+        "./seniors/Chirag/img/4.png",
+        "./seniors/Chirag/img/5.png",
+        "./seniors/Chirag/img/6.png",
+        "./seniors/Chirag/img/7.png",
+        "./seniors/Chirag/img/8.png",
+        "./seniors/Chirag/img/9.png"
+    ],
+    "section6bg": "img",
+    "shortText": "Ravi's a jolly good fellow",
+    "shortText2": "And so to say all of us...",
+    "TvVideoLink": "link to youtube here",
+    "section7bg": "img",
+    "seniorPic": "ravi_pic_class_disable"
+}

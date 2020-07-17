@@ -3,8 +3,8 @@ $(document).ready(function() {
         name = $(this).text().toLowerCase()
         $.getJSON('../seniors/'+name+'/senior.json', function(senior) {
             document.title = 'Farewell ' + senior.name  
-            $('#carlo_txt').html('<h2>'+senior.h2+'</h2>')
-            $('#carlo_txt').append('<p>'+senior.p1-desc+'<br><br>'+senior.p2-desc+'</p>')
+            $('.carlo_txt').html('<h2>'+senior.h2+'</h2>')
+            $('.carlo_txt').append('<p>'+senior.p1_desc+'<br><br>'+senior.p2_desc+'</p>')
             $('.carlo').attr('src', senior.imageOnRight)
             $('.txt4').html(senior.txt4)
             $('.record1').attr('src', senior.recordDivImages[0])
