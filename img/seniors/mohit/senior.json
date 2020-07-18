@@ -1,0 +1,21 @@
+{
+    "name": "Mohit",
+    "profileimg": "./img/seniors/mohit/img/prf.png",
+    "p1_desc": "The challenge. We had this thing where we would prank each other and then get a score for doing that. It started with we throwing each other's stuff from first floor in third year. We used to do extremely stupid stuff like covering locks in toothpaste and stupid shit like that. ",
+    "p2_desc": "In 4-2, this reached its peak when I changed the key of his number lock, wrote the numbers at 4 different locations (Nutan, Gate redi, Sky, C'not) and asked him to go around to figure it out. In a momentary slip by me, this loser stole my wallet.",
+    "imgOnRight": "Path to image",
+    "swiperImages": [
+        "./img/seniors/mohit/img/1.jpeg",
+        "./img/seniors/mohit/img/2.jpeg",
+        "./img/seniors/mohit/img/3.jpeg",
+        "./img/seniors/mohit/img/4.jpeg",
+        "./img/seniors/mohit/img/5.jpeg"
+    ],
+    "txt4": "Like most of us ...",
+    "section6bg": "img",
+    "shortText": "Mohit's a jolly good fellow",
+    "shortText2": "He is the guy who used to solve all problems before a midsem or compre",
+    "TvVideoLink": "link to youtube here",
+    "section7bg": "img",
+    "seniorPic": "ravi_pic_class_disable"
+}
