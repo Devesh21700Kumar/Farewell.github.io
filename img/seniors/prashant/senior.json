@@ -1,0 +1,30 @@
+{
+    "name": "Prashant",
+    "profileimg": "./img/seniors/prashant/img/1.png",
+    "h2": "A philosophical guru who tries to enlighten his group with his never ending theories.",
+    "p1_desc": "It's been 4 years now, starting from 2016 (read Two Thousand Shishteen) when we first met this all-rounder.",
+    "p2_desc": " He simply never ceases to amaze, be it with his theories, his MS Excel skills, his presentations, and most importantly his leadership skills",
+    "imgOnRight": "Path to image",
+    "swiperImages": [
+        "./img/seniors/prashant/img/2.jpg",
+        "./img/seniors/prashant/img/3.jpg",
+        "./img/seniors/prashant/img/4.jpg",
+        "./img/seniors/prashant/img/5.jpg",
+        "./img/seniors/prashant/img/6.jpg",
+        "./img/seniors/prashant/img/7.jpg",
+        "./img/seniors/prashant/img/8.jpg"
+    ],
+    "txt4": "Like most of us ...",
+    "recordDivImages": [
+        "img1",
+        "img2",
+        "img3",
+        "img4"
+    ],
+    "section6bg": "img",
+    "shortText": "Prashant's a jolly good fellow",
+    "shortText2": "And so to say all of us...",
+    "TvVideoLink": "link to youtube here",
+    "section7bg": "img",
+    "seniorPic": "ravi_pic_class_disable"
+}

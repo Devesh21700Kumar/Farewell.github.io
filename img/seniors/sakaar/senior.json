@@ -1,0 +1,26 @@
+{
+    "name": "Sakaar",
+    "profileimg": "./img/seniors/sakaar/img/1.jpg",
+    "h2": "Some ten years ago ... ye wala part",
+    "p1_desc": "It was Ravi Shankar ...",
+    "p2_desc": "Within a few Short months",
+    "imgOnRight": "Path to image",
+    "swiperImages": [
+        "./img/seniors/sakaar/img/2.jpg",
+        "./img/seniors/sakaar/img/3.jpg",
+        "./img/seniors/sakaar/img/4.jpg"
+    ],
+    "txt4": "Like most of us ...",
+    "recordDivImages": [
+        "img1",
+        "img2",
+        "img3",
+        "img4"
+    ],
+    "section6bg": "img",
+    "shortText": "Ravi's a jolly good fellow",
+    "shortText2": "And so to say all of us...",
+    "TvVideoLink": "link to youtube here",
+    "section7bg": "img",
+    "seniorPic": "ravi_pic_class_disable"
+}
