@@ -1,14 +1,14 @@
 {
     "name": "Sakaar",
-    "profileimg": "./img/seniors/sakaar/img/1.jpg",
+    "profileimg": "./img/seniors/sakaar/img/1.jpeg",
     "h2": "Some ten years ago ... ye wala part",
     "p1_desc": "It was Ravi Shankar ...",
     "p2_desc": "Within a few Short months",
     "imgOnRight": "Path to image",
     "swiperImages": [
-        "./img/seniors/sakaar/img/2.jpg",
-        "./img/seniors/sakaar/img/3.jpg",
-        "./img/seniors/sakaar/img/4.jpg"
+        "./img/seniors/sakaar/img/2.jpeg",
+        "./img/seniors/sakaar/img/3.jpeg",
+        "./img/seniors/sakaar/img/4.jpeg"
     ],
     "txt4": "Like most of us ...",
     "recordDivImages": [
