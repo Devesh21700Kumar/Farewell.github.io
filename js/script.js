@@ -2,7 +2,13 @@ $(document).ready(function () {
     $('.senior-link').click(function () {
         name = $(this).text().toLowerCase()
         $.getJSON('../img/seniors/' + name + '/senior.json', function (senior) {
-            document.title = 'Farewell ' + senior.name
+            document.title = 'Farewell ' + senior.name;
+            document.querySelectorAll(".name").forEach(name => {
+                name.innerHTML = senior.name;
+                if (senior.name === "Satyavrat" || senior.name === "Prashant" || senior.name === "Srivatsa") {
+                    name.style.fontSize = "8.7vw";
+                }
+            });
             $('.carlo_txt p').text(senior.p1_desc + ' ' + senior.p2_desc)
             $('.carlo').attr('src', senior.imageOnRight)
             $('.ravi_img3').attr('src', senior.profileimg)
