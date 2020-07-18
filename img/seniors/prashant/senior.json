@@ -6,21 +6,15 @@
     "p2_desc": " He simply never ceases to amaze, be it with his theories, his MS Excel skills, his presentations, and most importantly his leadership skills",
     "imgOnRight": "Path to image",
     "swiperImages": [
-        "./img/seniors/prashant/img/2.jpg",
+        "./img/seniors/prashant/img/2.jpeg",
         "./img/seniors/prashant/img/3.jpg",
-        "./img/seniors/prashant/img/4.jpg",
-        "./img/seniors/prashant/img/5.jpg",
-        "./img/seniors/prashant/img/6.jpg",
-        "./img/seniors/prashant/img/7.jpg",
-        "./img/seniors/prashant/img/8.jpg"
+        "./img/seniors/prashant/img/4.jpeg",
+        "./img/seniors/prashant/img/5.jpeg",
+        "./img/seniors/prashant/img/6.jpeg",
+        "./img/seniors/prashant/img/7.jpeg",
+        "./img/seniors/prashant/img/8.jpeg"
     ],
     "txt4": "Like most of us ...",
-    "recordDivImages": [
-        "img1",
-        "img2",
-        "img3",
-        "img4"
-    ],
     "section6bg": "img",
     "shortText": "Prashant's a jolly good fellow",
     "shortText2": "And so to say all of us...",
