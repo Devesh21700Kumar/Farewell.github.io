@@ -1,10 +1,10 @@
 {
     "name": "Srivatsa",
-    "profileimg": "./img/seniors/srivatsa/img/1.jpg",
+    "profileimg": "./img/seniors/srivatsa/img/prf.png",
     "h2": "Some ten years ago ... ye wala part",
-    "p1_desc": "It was Ravi Shankar ...",
-    "p2_desc": "Within a few Short months",
-    "imgOnRight": "Path to image",
+    "p1_desc": "A girl stuck in a boy's body, or just a man with periods. He is confused half of the time and in love with his girl all the time. The most difficult person to be with, sometimes just make you push him in a well and join him afterwards. Probably should start wearing jeans not copy my signature shorts. P.S. a guy with the biggest heart, melts you like butter on a Toast. Can't hate the guy tbh.",
+    "p2_desc": "",
+    "imgOnRight": "",
     "swiperImages": [
         "./img/seniors/srivatsa/img/2.jpg",
         "./img/seniors/srivatsa/img/3.jpg",
@@ -31,7 +31,7 @@
         "./img/seniors/srivatsa/img/11.jpg"
     ],
     "section6bg": "img",
-    "shortText": "Ravi's a jolly good fellow",
+    "shortText": "Srivatsa's a jolly good fellow",
     "shortText2": "And so to say all of us...",
     "TvVideoLink": "link to youtube here",
     "section7bg": "img",
