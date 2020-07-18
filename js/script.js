@@ -52,6 +52,26 @@ $(document).ready(function () {
 
             // Inject the swiper wrapper into the container
             swiperContainer.appendChild(swiperWrapper);
+            setTimeout(changeSwiper, 300)
         })
     })
-})
+});
+
+var changeSwiper = (function () {
+    var swiperInstance = null;
+    
+    return function () {
+        if (swiperInstance) {
+            swiperInstance.destroy(true, false);
+        }
+
+        swiperInstance = new Swiper(".swiper-container", {
+            pagination: ".swiper-pagination",
+            slidesPerView: "auto",
+            paginationClickable: !0,
+            spaceBetween: 15,
+            freeMode: !0,
+            loop: !0,
+        });
+    }
+})();
