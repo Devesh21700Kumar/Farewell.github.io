@@ -1,5 +1,7 @@
-$('#toggle').click(function () {
-	$(this).toggleClass('active');
-	$('#overlay').toggleClass('open');
-	$('body').toggleClass('fixedPosition');
-});
+over = document.getElementById('overlay');
+tog = document.getElementById('toggle');
+function toggle() {
+	console.log(1);
+	tog.classList.toggle('active');
+	over.classList.toggle('open');
+}
