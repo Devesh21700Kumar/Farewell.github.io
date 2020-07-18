@@ -1,0 +1,32 @@
+{
+    "name": "Nikhil Khandelwal",
+    "profileimg": "./img/seniors/nikhil/img/prf.png",
+    "h2": "Some ten years ago ... ye wala part",
+    "p1-desc": "It was Ravi Shankar ...",
+    "p2-desc": "Within a few Short months",
+    "imgOnRight": "Path to image",
+    "swiperImages": [
+        "./img/seniors/nikhil/img/nikhil-1.jpeg",
+        "./img/seniors/nikhil/img/nikhil-2.jpeg",
+        "./img/seniors/nikhil/img/nikhil-3.jpeg",
+        "./img/seniors/nikhil/img/nikhil-4.jpeg",
+        "./img/seniors/nikhil/img/nikhil-5.jpeg",
+        "./img/seniors/nikhil/img/nikhil-6.jpeg",
+        "./img/seniors/nikhil/img/nikhil-7.jpeg",
+        "./img/seniors/nikhil/img/nikhil-8.jpeg",
+        "./img/seniors/nikhil/img/nikhil-9.jpeg"
+    ],
+    "txt4": "Like most of us ...",
+    "recordDivImages": [
+        "img1",
+        "img2",
+        "img3",
+        "img4"
+    ],
+    "section6bg": "img",
+    "shortText": "Ravi's a jolly good fellow",
+    "shortText2": "And so to say all of us...",
+    "TvVideoLink": "link to youtube here",
+    "section7bg": "img",
+    "seniorPic": "ravi_pic_class_disable"
+}

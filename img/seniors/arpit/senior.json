@@ -1,0 +1,27 @@
+{
+    "name": "Arpit",
+    "profileimg": "./img/seniors/arpit/img/2.jpg",
+    "h2": "Some ten years ago ... ye wala part",
+    "p1_desc": "It was Ravi Shankar ...",
+    "p2_desc": "Within a few Short months",
+    "imgOnRight": "Path to image",
+    "swiperImages": [
+        "./img/seniors/arpit/img/1.jpg",
+        "./img/seniors/arpit/img/3.jpg",
+        "./img/seniors/arpit/img/4.jpg",
+        "./img/seniors/arpit/img/5.jpg"
+    ],
+    "txt4": "Like most of us ...",
+    "recordDivImages": [
+        "./img/seniors/arpit/img/1.jpg",
+        "./img/seniors/arpit/img/3.jpg",
+        "./img/seniors/arpit/img/4.jpg",
+        "./img/seniors/arpit/img/5.jpg"
+    ],
+    "section6bg": "img",
+    "shortText": "Ravi's a jolly good fellow",
+    "shortText2": "And so to say all of us...",
+    "TvVideoLink": "link to youtube here",
+    "section7bg": "img",
+    "seniorPic": "ravi_pic_class_disable"
+}
