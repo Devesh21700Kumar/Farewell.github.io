@@ -21,3 +21,47 @@
     background-size: cover;
     height: 100%;
 }
+
+.name {
+    font-family: 'badaboom_bbregular';
+    font-size: 10vw;
+    letter-spacing: 1vw;
+    color: #fff;
+    text-shadow: 10px 10px 1px #000;
+    width: auto;
+    display: flex;
+}
+
+#name2 {
+    justify-content: flex-end;
+}
+
+#name-div {
+    position: absolute;
+    top: 17.5vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    z-index: 1;
+    justify-content: space-around;
+}
+
+.res{
+    position: absolute; 
+    width: 400px; 
+    height:500px;
+}
+
+@media screen and (orientation: portrait){
+    .res{
+        margin-left: 60px;
+        width: 20vw;
+        height: 300px;
+    }
+    #name1{
+        visibility: hidden;
+    }
+    #name2{
+        margin-left:50px;
+    }
+}

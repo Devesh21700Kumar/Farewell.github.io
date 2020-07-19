@@ -1,8 +1,14 @@
 $(document).ready(function () {
     $('.senior-link').click(function () {
         name = $(this).text().toLowerCase()
-        $.getJSON('../img/seniors/' + name + '/senior.json', function (senior) {
-            document.title = 'Farewell ' + senior.name
+        $.getJSON('https://raw.githubusercontent.com/dmahajan980/cc-farewell/master/img/seniors/' + name + '/senior.json', function (senior) {
+            document.title = 'Farewell ' + senior.name;
+            document.querySelectorAll(".name").forEach(name => {
+                name.innerHTML = senior.name;
+                if (senior.name === "Satyavrat" || senior.name === "Prashant" || senior.name === "Srivatsa") {
+                    name.style.fontSize = "8.7vw";
+                }
+            });
             $('.carlo_txt p').text(senior.p1_desc + ' ' + senior.p2_desc)
             $('.carlo').attr('src', senior.imageOnRight)
             $('.ravi_img3').attr('src', senior.profileimg)
@@ -46,6 +52,26 @@ $(document).ready(function () {
 
             // Inject the swiper wrapper into the container
             swiperContainer.appendChild(swiperWrapper);
+            setTimeout(changeSwiper, 300)
         })
     })
-})
+});
+
+var changeSwiper = (function () {
+    var swiperInstance = null;
+    
+    return function () {
+        if (swiperInstance) {
+            swiperInstance.destroy(true, false);
+        }
+
+        swiperInstance = new Swiper(".swiper-container", {
+            pagination: ".swiper-pagination",
+            slidesPerView: "auto",
+            paginationClickable: !0,
+            spaceBetween: 15,
+            freeMode: !0,
+            loop: !0,
+        });
+    }
+})();

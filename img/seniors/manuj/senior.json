@@ -1,21 +1,21 @@
 {
     "name": "Manuj",
     "profileimg": "./img/seniors/manuj/profile.png",
-    "p1_desc": "It was Manuj's first day at BITS Pilani along with a thousand more. Little did they know that this place would create the greatest memories of their lifetime!",
-    "p2_desc": "And since then, their journey at BITS has been somewhat adventurous. But life does not give you the ability to just stick to one thing. As time passes, we must move on...",
+    "p1_desc": "4 years ago, during the overview of autumn it was Manuj's first day at BITS Pilani along with a thousand more. Little did he know that this place would create the greatest memories of their lifetime!",
+    "p2_desc": "And since then, his journey at BITS has been somewhat adventurous. But life does not give you the ability to just stick to one thing. As time passes, we must move on...",
     "imgOnRight": "Path to image",
     "swiperImages": [
-        "./img/seniors/manuj/1.jpg",
-        "./img/seniors/manuj/2.jpg",
-        "./img/seniors/manuj/3.jpg",
-        "./img/seniors/manuj/4.jpg",
-        "./img/seniors/manuj/5.jpg",
-        "./img/seniors/manuj/6.jpg"
+        "./img/seniors/manuj/1.jpeg",
+        "./img/seniors/manuj/2.jpeg",
+        "./img/seniors/manuj/3.jpeg",
+        "./img/seniors/manuj/4.jpeg",
+        "./img/seniors/manuj/5.jpeg",
+        "./img/seniors/manuj/6.jpeg"
     ],
     "txt4": "Like most of us ...",
     "section6bg": "img",
-    "shortText": "Manuj's a jolly good fellow",
-    "shortText2": "And so say all of us. With all the melodrama of a bollywood potboiler, no less. So turn up the volume, grab your popcorn and let’s go.",
+    "shortText": "GSOC Phoda! Phod Aadmi",
+    "shortText2": "Code.Fun.Do ke runner-up hai hamare bhaiya",
     "TvVideoLink": "link to youtube here",
     "section7bg": "img",
     "seniorPic": "ravi_pic_class_disable"

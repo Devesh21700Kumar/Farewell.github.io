@@ -1,26 +1,20 @@
 {
     "name": "Arpit",
-    "profileimg": "./img/seniors/arpit/img/2.jpg",
-    "h2": "Some ten years ago ... ye wala part",
-    "p1_desc": "It was Ravi Shankar ...",
-    "p2_desc": "Within a few Short months",
+    "profileimg": "./img/seniors/arpit/img/profile.png",
+    "p1_desc": "Yeh humare group ka item h. Iske bday pehumne sash pe chhamakchhallo likhke isko pure campus m ghumaya tha aur yeh mast show off bhi kar rha tha.",
+    "p2_desc": "Yeh fir anc pe jaake mast pole dance bhi ki kuki treat ke khane ke saath entertainment bhi toh hona chahiye. ",
     "imgOnRight": "Path to image",
     "swiperImages": [
         "./img/seniors/arpit/img/1.jpg",
-        "./img/seniors/arpit/img/3.jpg",
+        "./img/seniors/arpit/img/2.jpg",
+        "./img/seniors/aaryan/img/img9.jpeg",
         "./img/seniors/arpit/img/4.jpg",
         "./img/seniors/arpit/img/5.jpg"
     ],
     "txt4": "Like most of us ...",
-    "recordDivImages": [
-        "./img/seniors/arpit/img/1.jpg",
-        "./img/seniors/arpit/img/3.jpg",
-        "./img/seniors/arpit/img/4.jpg",
-        "./img/seniors/arpit/img/5.jpg"
-    ],
     "section6bg": "img",
-    "shortText": "Ravi's a jolly good fellow",
-    "shortText2": "And so to say all of us...",
+    "shortText": "Arpit's a jolly good fellow",
+    "shortText2": "Angel ka Pyara sa Nyara sa Nanha sa Dulara sa Cute sa Bachha (APNNDCB)...",
     "TvVideoLink": "link to youtube here",
     "section7bg": "img",
     "seniorPic": "ravi_pic_class_disable"

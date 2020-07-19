@@ -1,25 +1,22 @@
 {
-    "name": "Mansi",
-    "profileimg": "./img/seniors/mansi/6.png",
-    "p1_desc": "As most of you would know, Mansi is a vegetarian. But she also liked applying eggs as a hair mask. So, every week, she would ask the shopkeeper for one egg, which was possibly the funniest request he ever got.",
-    "p2_desc": "And since she did not want to hold the egg even while breaking it, she would use a plastic to hold it and a spoon to apply . Itna patient koi kaise ho sakta 😂",
-    "imgOnRight": "Path to image",
-    "swiperImages": [
-        "./img/seniors/mansi/1.jpg",
-        "./img/seniors/mansi/2.jpg",
-        "./img/seniors/mansi/3.jpg",
-        "./img/seniors/mansi/4.jpg",
-        "./img/seniors/mansi/5.jpg",
-        "./img/seniors/mansi/6.jpg",
-        "./img/seniors/mansi/7.jpg",
-        "./img/seniors/mansi/8.jpg",
-        "./img/seniors/mansi/9.jpg"
-    ],
-    "txt4": "Like most of us ...",
-    "section6bg": "img",
-    "shortText": "Mansi's a jolly good fellow",
-    "shortText2": "10ml aur dher Saara coke peene ke Baad Yeh bolna ki mein bhand hun. Lol, never change Mansi Mishi 🤗",
-    "TvVideoLink": "link to youtube here",
-    "section7bg": "img",
-    "seniorPic": "ravi_pic_class_disable"
+	"name": "Mansi",
+	"profileimg": "./img/seniors/mansi/6.png",
+	"p1_desc": "As most of you would know, Mansi is a vegetarian. But she also liked applying eggs as a hair mask. So, every week, she would ask the shopkeeper for one egg, which was possibly the funniest request he ever got.",
+	"p2_desc": "And since she did not want to hold the egg even while breaking it, she would use a plastic to hold it and a spoon to apply . Itna patient koi kaise ho sakta 😂",
+	"imgOnRight": "Path to image",
+	"swiperImages": [
+		"./img/seniors/mansi/1.jpeg",
+		"./img/seniors/mansi/3.jpeg",
+		"./img/seniors/mansi/4.jpeg",
+		"./img/seniors/mansi/7.jpeg",
+		"./img/seniors/mansi/8.jpeg",
+		"./img/seniors/mansi/9.jpeg"
+	],
+	"txt4": "Like most of us ...",
+	"section6bg": "img",
+	"shortText": "Mansi's a jolly good fellow",
+	"shortText2": "10ml aur dher Saara coke peene ke Baad Yeh bolna ki mein bhand hun. Lol, never change Mansi Mishi 🤗",
+	"TvVideoLink": "link to youtube here",
+	"section7bg": "img",
+	"seniorPic": "ravi_pic_class_disable"
 }
