@@ -45,3 +45,23 @@
     z-index: 1;
     justify-content: space-around;
 }
+
+.res{
+    position: absolute; 
+    width: 400px; 
+    height:500px;
+}
+
+@media screen and (orientation: portrait){
+    .res{
+        margin-left: 60px;
+        width: 20vw;
+        height: 300px;
+    }
+    #name1{
+        visibility: hidden;
+    }
+    #name2{
+        margin-left:50px;
+    }
+}
