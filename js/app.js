@@ -40,7 +40,7 @@ function toggle6() {
 
 function  tag1(){
 	e.innerHTML="Ishant";
-	p2.innerText="Ishant";
+	p2.innerText="Rendi Number 1 they call him.. Bandi Nahi milne se pareshaan bechara, aur ishq ka maara. Apni hawas ke kisse khoob sunaye hai isne, 1st year me chapri, 2nd se coder + chapri. Banda hard working hai but.";
 	p1.src="/img/seniors/aman/img/main.jpeg"
 }
 
