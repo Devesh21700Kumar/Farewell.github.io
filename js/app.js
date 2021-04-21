@@ -38,6 +38,11 @@ function toggle6() {
 	over.classList.toggle('open');
 }
 
+function toggle7() {
+	tog.classList.toggle('active');
+	over.classList.toggle('open');
+}
+
 function  tag1(){
 	e.innerHTML="Ishant";
 	p2.innerText="Rendi Number 1 they call him.. Bandi Nahi milne se pareshaan bechara, aur ishq ka maara. Apni hawas ke kisse khoob sunaye hai isne, 1st year me chapri, 2nd se coder + chapri. Banda hard working hai but.";
@@ -46,8 +51,8 @@ function  tag1(){
 
 function  tag2(){
 	e.innerHTML="Arpit"; 
-	p2.innerText="calm and cool guy /kitno ne poocha IAS banoge?/ /kisi ne poocha nahi but ye question sabne poocha?/ ";
-	p1.src="/img/seniors/aman/img/4C.jpeg"
+	p2.innerText="calm and cool guy kitno ne poocha IAS banoge? kisi ne poocha nahi but ye question sabne poocha? ";
+	p1.src="/img/seniors/aman/img/Arpit.jpeg"
 }
 
 function  tag3(){
@@ -72,4 +77,10 @@ function  tag6(){
 	e.innerHTML="Anshuman";
 	p2.innerText="Anshuman , the real gamdev gawd, The sincere cupa rustom. Campus pe zaroor milna";
 	p1.src="/img/seniors/aman/img/6C.jpeg"
+}
+
+function  tag7(){
+	e.innerHTML="Arpit";
+	p2.innerText="calm and cool guy kitno ne poocha IAS banoge? kisi ne poocha nahi but ye question sabne poocha? ";
+	p1.src="/img/seniors/aman/img/4C.jpeg"
 }
